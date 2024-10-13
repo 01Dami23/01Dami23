@@ -1,6 +1,6 @@
 ## Hello! 👋 I'm Damiano
 
-### I'm a Computer Engineering student currently focusing on Computer Vision and Autonomous Robots.
+### I'm a Computer Engineering student focusing on Computer Vision and Autonomous Robots.
 
 - 🔧 I’m currently working on **Image Reconstruction for Event Cameras with Diffusion Models**
 
