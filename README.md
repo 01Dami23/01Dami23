@@ -6,7 +6,7 @@
 
 - 📗 I’m currently learning about **Generative Models and Sensor Fusion**
 
-- 😊 I'm always happy to discuss about **Autonomous Robots and Agricultural Robotics!**
+- 😊 I'm always happy to discuss about **Autonomous Vehicles and Agricultural Robotics!**
 
 ### Connect with me! 
 <a href="https://linkedin.com/in/damiano-da-col" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damiano-da-col" height="30" width="40" /> </a>
