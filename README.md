@@ -2,9 +2,9 @@
 
 ### I'm a Computer Engineering student focusing on Computer Vision and Autonomous Robots.
 
-- 🔧 I’m currently working on **Image Reconstruction for Event Cameras with Diffusion Models**
+- 🔧 I’m currently working on **Computer Vision for Formula 1 Onboard-Video Analysis**
 
-- 📗 I’m currently learning about **Generative Models and Sensor Fusion**
+- 📗 I’m currently learning about **C++ Programming and ROS**
 
 - 😊 I'm always happy to discuss about **Autonomous Vehicles and Agricultural Robotics!**
 
