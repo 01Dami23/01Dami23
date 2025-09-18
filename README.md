@@ -2,7 +2,7 @@
 
 ### I'm a Computer Engineering student focusing on Computer Vision and Autonomous Robots.
 
-- 🔧 I’m currently working on **Computer Vision for Formula 1 Onboard-Video Analysis**
+- 🔧 I’m currently working on **Reinforcement Learning for Autonomous Driving**
 
 - 📗 I’m currently learning about **C++ Programming and CUDA**
 
