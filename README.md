@@ -4,8 +4,6 @@
 
 - 🔧 I’m currently working on **Reinforcement Learning for Autonomous Driving**
 
-- 📗 I’m currently learning about **C++ Programming and CUDA**
-
 - 😊 I'm always happy to discuss about **Autonomous Vehicles and Agricultural Robotics!**
 
 ### Connect with me! 
