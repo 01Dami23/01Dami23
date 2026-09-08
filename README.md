@@ -1,8 +1,8 @@
 ## Hello! 👋 I'm Damiano
 
-### I'm a Computer Engineering student focusing on Computer Vision and Autonomous Robots.
+### I'm a Robotics Graduate Passionate about Computer Vision and Autonomous Robots.
 
-- 🔧 I’m currently working on **Reinforcement Learning for Autonomous Driving**
+- 🔧 I’m currently working on **Learning methods for Autonomous Driving and Physical AI**
 
 - 😊 I'm always happy to discuss about **Autonomous Vehicles and Agricultural Robotics!**
 
