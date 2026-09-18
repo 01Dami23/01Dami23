@@ -9,8 +9,9 @@
 ### Connect with me! 
 <a href="https://linkedin.com/in/damiano-da-col" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damiano-da-col" height="30" width="40" /> </a>
 
-### Recent projects:
+### Projects:
 <ul>
+    <li><a href="https://01dami23.github.io/opted/">[OPTED]</a> On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher. </li>
     <li><a href="https://github.com/behretj/DPT-SLAM">[DPT-SLAM]</a> A novel Visual SLAM framework that integrates dense point tracking to enhance optical flow estimation. </li>
     <li><a href="https://github.com/LorenzoCodeluppi/VO_pipeline">[VO Pipeline]</a> A monocular Visual Odometry pipeline that estimates camera motion using keypoint tracking between frames, 3D point initialization, and pose estimation. </li>
 </ul>
