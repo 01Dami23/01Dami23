@@ -1,10 +1,11 @@
-## Hello! 👋 I'm Damiano
+## Hi, I'm Damiano 👋
 
-### I'm a Robotics Graduate Passionate about Computer Vision and Autonomous Robots.
+I work on machine learning for physical AI, mostly on how models can learn from their own experience: reinforcement learning, on-policy distillation and post-training.
 
-- 🔧 I’m currently working on **Learning methods for Autonomous Driving and Physical AI**
-
-- 😊 I'm always happy to discuss about **Autonomous Vehicles and Agricultural Robotics!**
+- 🔬 Currently at [KE:SAI](https://kesai.eu) in Tübingen, scaling on-policy distillation of self-play RL teachers into end-to-end driving models
+- 📄 First author of [OPTED](https://arxiv.org/abs/2609.20756) (under review), on-policy fine-tuning for end-to-end driving with a render-free teacher, with NVIDIA and ETH Zürich
+- ⚡ I care about open research and methods that learn efficiently
+- 🤖 Always happy to talk about robot learning and intelligent systems.
 
 ### Connect with me! 
 <a href="https://linkedin.com/in/damiano-da-col" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damiano-da-col" height="30" width="40" /> </a>
